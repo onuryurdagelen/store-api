@@ -1,0 +1,75 @@
+[
+  {
+    "name": "MacBook Air",
+    "price": 1000,
+    "company": "apple",
+    "rating": 4
+  },
+  {
+    "name": "Galaxy Z Fold3 5G",
+    "price": 649,
+    "company": "samsung",
+    "rating": 5
+  },
+  {
+    "name": "Galaxy Watch4",
+    "price": 64,
+    "company": "samsung",
+    "rating": 4.9
+  },
+  {
+    "name": "MacBook Pro 13",
+    "price": 1299,
+    "company": "apple",
+    "rating": 4.8,
+    "featured": true
+  },
+  {
+    "name": "Odyssey Gaming Monitor",
+    "price": 1099,
+    "company": "samsung",
+    "rating": 4.6,
+    "featured": true
+  },
+  {
+    "name": "OLED+ 936 TV",
+    "price": 1500,
+    "company": "philips",
+    "rating": 4.6
+  },
+  {
+    "name": "OLED+ 935 TV",
+    "price": 1200,
+    "company": "philips",
+    "rating": 4.5
+  },
+  {
+    "name": "ThinkPad X1 Extreme Gen 4",
+    "price": 1300,
+    "featured": true,
+    "company": "lenovo"
+  },
+  {
+    "name": "BeNear PC Oyun Kulaklığı",
+    "price": 200,
+    "featured": true,
+    "company": "philips"
+  },
+
+  {
+    "name": "ThinkVision P44w-10 Monitor",
+    "price": 700,
+    "company": "lenovo"
+  },
+  {
+    "name": "HP Spectre",
+    "price": 500,
+    "company": "HP",
+    "featured": true
+  },
+  {
+    "name": "HP Pavilion",
+    "price": 600,
+    "company": "HP"
+  }
+]
